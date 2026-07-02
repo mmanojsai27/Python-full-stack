@@ -111,3 +111,9 @@ This repository contains my Day 3 Python learning notes, covering Python data ty
 Day 4 Python notes covering Lists and Tuples, their methods, indexing, mutability, and practical examples.
 
 This repository contains my Day 4 Python learning notes focused on Python collection data types—Lists and Tuples. It covers list operations, indexing, mutability, methods like append(), extend(), pop(), and remove(), tuple methods such as index() and count(), and sorting techniques using sort() and sorted() with practical examples.
+
+Day 5 – Dictionaries & Sets
+
+Day 5 Python notes covering Dictionaries and Sets, including their methods, operations, and practical examples.
+
+This repository contains my Day 5 Python learning notes, covering Python Dictionaries and Sets. It explains dictionary concepts, key-value pairs, methods like keys(), values(), items(), update(), and clear(). It also covers set operations such as union(), intersection(), symmetric_difference(), add(), remove(), and discard(), with simple examples for better understanding.

@@ -112,8 +112,51 @@ Day 4 Python notes covering Lists and Tuples, their methods, indexing, mutabilit
 
 This repository contains my Day 4 Python learning notes focused on Python collection data types—Lists and Tuples. It covers list operations, indexing, mutability, methods like append(), extend(), pop(), and remove(), tuple methods such as index() and count(), and sorting techniques using sort() and sorted() with practical examples.
 
+# Python-full-stack-day5
 Day 5 – Dictionaries & Sets
 
 Day 5 Python notes covering Dictionaries and Sets, including their methods, operations, and practical examples.
 
 This repository contains my Day 5 Python learning notes, covering Python Dictionaries and Sets. It explains dictionary concepts, key-value pairs, methods like keys(), values(), items(), update(), and clear(). It also covers set operations such as union(), intersection(), symmetric_difference(), add(), remove(), and discard(), with simple examples for better understanding.
+
+# Python-full-stack-day6
+Day 6 Python notes covering type conversion between integers, floats, strings, lists, tuples, and dictionaries using built-in functions with examples.
+
+
+This repository contains my Day 6 Python learning notes on Type Conversion (Type Casting) in Python. It covers converting between different data types such as integers, floats, strings, lists, tuples, and dictionaries using built-in functions like int(), float(), str(), list(), tuple(), and dict(). The repository also includes practical examples demonstrating both implicit and explicit type conversions to help understand data manipulation in Python.
+
+
+# Python-full-stack-day7
+Day 7 Python notes covering user input, type conversion, input formatting, and formatted output using f-strings and string formatting techniques.
+
+This repository contains my Day 7 Python learning notes on User Input and Input Formatting in Python. It covers taking user input using the input() function and converting input into different data types such as integers, floats, strings, lists, tuples, and eval(). The repository also demonstrates formatted output using f-strings, comma-separated printing, and modulus (%) formatting, along with practical examples for better understanding.
+
+
+# Python-full-stack-day8
+Day 8 Python notes covering conditional statements (if, if-else, elif, and nested if) with practical examples and decision-making programs.
+
+This repository contains my Day 8 Python learning notes on Conditional Statements in Python. It covers decision-making concepts using if, if-else, elif, and nested if statements. The repository includes practical examples such as checking even or odd numbers, ATM PIN validation, grading systems, finding the largest number, and identifying vowels and consonants, helping build a strong foundation in Python control flow.
+
+
+# Python-full-stack-day9
+Day 9 Python notes covering for and while loops, control statements (break, continue, pass), range(), and the assert keyword with practical examples.
+
+This repository contains my Day 9 Python learning notes on Loops and Control Statements in Python. It covers for and while loops for iteration, the use of else with loops, and control statements like break, continue, and pass. It also explains the range() function for generating sequences and the assert keyword for validating conditions, with practical examples to strengthen loop and flow-control concepts.
+
+# Python-full-stack-day10
+Day 10 of Python practice — number theory and pattern-printing exercises (prime numbers, Armstrong numbers, triangle/pyramid patterns).
+
+This script is part of a daily Python coding practice series (Day 10). It covers several beginner-to-intermediate exercises:
+Checking whether a number is prime
+Printing all prime numbers up to a given limit
+Printing right-angled triangle patterns using *
+Printing number-based triangle patterns
+Checking whether a number is an Armstrong number
+Printing a centered pyramid pattern using *
+
+Each exercise is written as a standalone, commented-out code block, making it easy to uncomment and run individual solutions.
+
+# Python-full-stack-day11
+Day 11 Python practice programs covering palindrome, Fibonacci sequence, calculator, multiplication table, perfect number, and ATM transaction system.
+
+This repository contains my Day 11 Python practice programs, designed to strengthen problem-solving and programming logic using Python. It includes implementations of a Palindrome Checker, Fibonacci Sequence Generator, Basic Calculator, Multiplication Table Generator, Perfect Number Checker, and an ATM Transaction System that simulates PIN verification, balance inquiry, cash withdrawal, and deposit operations using conditional statements, loops, and dictionaries. These exercises help reinforce core Python concepts through real-world examples.

@@ -160,3 +160,9 @@ Each exercise is written as a standalone, commented-out code block, making it ea
 Day 11 Python practice programs covering palindrome, Fibonacci sequence, calculator, multiplication table, perfect number, and ATM transaction system.
 
 This repository contains my Day 11 Python practice programs, designed to strengthen problem-solving and programming logic using Python. It includes implementations of a Palindrome Checker, Fibonacci Sequence Generator, Basic Calculator, Multiplication Table Generator, Perfect Number Checker, and an ATM Transaction System that simulates PIN verification, balance inquiry, cash withdrawal, and deposit operations using conditional statements, loops, and dictionaries. These exercises help reinforce core Python concepts through real-world examples.
+
+
+# Python-full-stack-day12
+Day 12 Python notes covering user-defined functions, function arguments, variable scope, and global/local variables with practical examples.
+
+This repository contains my Day 12 Python learning notes on Functions in Python. It covers the fundamentals of reusable code using user-defined functions, different types of function arguments (required, default, keyword, and variable-length arguments using *args and **kwargs), as well as the concepts of global and local variables. The repository also demonstrates the use of the global keyword to modify global variables within functions, along with practical examples to build a strong understanding of Python functions.
